@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-blog/static/css/main.9fb19109.css",
+    "main.js": "/my-blog/static/js/main.467a6b83.js",
+    "static/media/Empire.png": "/my-blog/static/media/Empire.8dce5ffc68b08388311a.png",
+    "static/media/coin.png": "/my-blog/static/media/coin.0d45d629a9c7952dbb7b.png",
+    "static/media/greward.jpg": "/my-blog/static/media/greward.d4f037e7c3d4db2bd730.jpg",
+    "static/media/clip.png": "/my-blog/static/media/clip.15ca0deaef49324ab314.png",
+    "static/media/prizes.jpg": "/my-blog/static/media/prizes.e35020f903d64f2caf09.jpg",
+    "static/media/img.png": "/my-blog/static/media/img.3b513f6605c526b84ed5.png",
+    "static/media/mob.svg": "/my-blog/static/media/mob.bf04d0d2b33e95642d5cc8182b1bb1f0.svg",
+    "static/media/mobile.svg": "/my-blog/static/media/mobile.4e3c4600a37f95c721857aeb3e14df0a.svg",
+    "static/media/freelance.svg": "/my-blog/static/media/freelance.2b273b6f0b315c049e5b92506efcc391.svg",
+    "index.html": "/my-blog/index.html",
+    "main.9fb19109.css.map": "/my-blog/static/css/main.9fb19109.css.map",
+    "main.467a6b83.js.map": "/my-blog/static/js/main.467a6b83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fb19109.css",
+    "static/js/main.467a6b83.js"
+  ]
+}
